@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "NBKI_Report/1.0.0": {
+        "runtime": {
+          "NBKI_Report.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NBKI_Report/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

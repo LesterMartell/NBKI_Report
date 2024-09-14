@@ -1,0 +1,14 @@
+D:\Lester\VS\Projects\NBKI_Report\bin\Debug\net8.0\NBKI_Report.exe
+D:\Lester\VS\Projects\NBKI_Report\bin\Debug\net8.0\NBKI_Report.deps.json
+D:\Lester\VS\Projects\NBKI_Report\bin\Debug\net8.0\NBKI_Report.runtimeconfig.json
+D:\Lester\VS\Projects\NBKI_Report\bin\Debug\net8.0\NBKI_Report.dll
+D:\Lester\VS\Projects\NBKI_Report\bin\Debug\net8.0\NBKI_Report.pdb
+D:\Lester\VS\Projects\NBKI_Report\obj\Debug\net8.0\NBKI_Report.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lester\VS\Projects\NBKI_Report\obj\Debug\net8.0\NBKI_Report.AssemblyInfoInputs.cache
+D:\Lester\VS\Projects\NBKI_Report\obj\Debug\net8.0\NBKI_Report.AssemblyInfo.cs
+D:\Lester\VS\Projects\NBKI_Report\obj\Debug\net8.0\NBKI_Report.csproj.CoreCompileInputs.cache
+D:\Lester\VS\Projects\NBKI_Report\obj\Debug\net8.0\NBKI_Report.dll
+D:\Lester\VS\Projects\NBKI_Report\obj\Debug\net8.0\refint\NBKI_Report.dll
+D:\Lester\VS\Projects\NBKI_Report\obj\Debug\net8.0\NBKI_Report.pdb
+D:\Lester\VS\Projects\NBKI_Report\obj\Debug\net8.0\NBKI_Report.genruntimeconfig.cache
+D:\Lester\VS\Projects\NBKI_Report\obj\Debug\net8.0\ref\NBKI_Report.dll
